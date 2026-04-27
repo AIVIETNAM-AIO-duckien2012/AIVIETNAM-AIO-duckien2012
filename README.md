@@ -62,8 +62,8 @@ I graduated in Information Systems from VNU-HCM University of Science and have a
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=duckien2012\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-duckien2012\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=duckien2012\&theme=radical\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AIVIETNAM-AIO-duckien2012\&theme=radical\&hide_border=true)
 
 
